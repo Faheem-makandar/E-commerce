@@ -57,5 +57,6 @@ The project includes authentication, product management, order management, and a
 
 ---
 
-## 📂 Project Folder Structure
+### Screenshot
+-
 
